@@ -5,5 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	printf("Peter Valus");
+	printf(" Peto, ak vidis tuto zmenu, daj mi nejako vediet ");
+	printf("nech viem, ze to funguje, Matus");
 	return 0;
 }
