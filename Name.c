@@ -8,5 +8,6 @@ int main(int argc, char *argv[]) {
 	printf(" Peto, ak vidis tuto zmenu, daj mi nejako vediet ");
 	printf("nech viem, ze to funguje, Matus");
 	printf("teraz to funguje Peter");
+	printf("viem ako to funguje, zakazdym pyta email a meno konta ak stahuje s ineho PC");
 	return 0;
 }
