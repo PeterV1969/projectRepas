@@ -9,5 +9,6 @@ int main(int argc, char *argv[]) {
 	printf("nech viem, ze to funguje, Matus");
 	printf("teraz to funguje Peter");
 	printf("viem ako to funguje, zakazdym pyta email a meno konta ak stahuje s ineho PC");
+	printf("hela");
 	return 0;
 }
